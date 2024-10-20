@@ -21,6 +21,12 @@ ntuser.*
 # Ignore other irrelevant files and folders
 java_error_in_*
 
+# Environment variables
+.env
+
+# Ignore unnecessary directories
+ALXCAPSTONEPROJECT-1/
+ALXCAPSTONEPROJECT/
 
 node_modules
 dist
